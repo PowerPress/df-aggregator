@@ -56,6 +56,8 @@
     // Add Cesium OSM Buildings, a global 3D buildings layer.
     // const buildingTileset = viewer.scene.primitives.add(Cesium.createOsmBuildings());
 
+    //Add Loading Spinner Here...
+
   </script>
   <div id="menuToggle">
 
